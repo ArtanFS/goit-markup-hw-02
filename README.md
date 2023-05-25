@@ -1,1 +1,1 @@
-# GoIT HW#1 by Anatolii Artiukhov
+# GoIT HW#2 by Anatolii Artiukhov
