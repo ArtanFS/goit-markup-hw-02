@@ -48,10 +48,13 @@ body {
   color: var(--color-pressed);
 }
 
+.header-adr {
+  font-style: normal;
+}
+
 .header-adr-link {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  font-style: normal;
   color: currentColor;
 }
 
@@ -63,11 +66,11 @@ body {
 .hero {
   background-color: var(--color-dark);
 }
-.heero-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
   color: var(--color-whitebg);
 }
 .hero-btn {
@@ -92,6 +95,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: var(--color-dark);
 }
 
 .choose-list-text {
@@ -104,6 +108,7 @@ body {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
   text-transform: capitalize;
   color: var(--color-dark);
 }
@@ -116,8 +121,13 @@ body {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
   text-transform: capitalize;
   color: var(--color-dark);
+}
+
+.team-list-item {
+  background-color: var(--color-whitebg);
 }
 
 .team-list-title {
