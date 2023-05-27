@@ -32,6 +32,7 @@ body {
   text-transform: uppercase;
   color: var(--color-primary-brand);
 }
+
 .header-logo {
   color: var(--color-dark);
 }
@@ -66,6 +67,7 @@ body {
 .hero {
   background-color: var(--color-dark);
 }
+
 .hero-title {
   font-weight: 700;
   font-size: 56px;
@@ -74,6 +76,7 @@ body {
   text-align: center;
   color: var(--color-whitebg);
 }
+
 .hero-btn {
   font-family: inherit;
   font-weight: 500;
@@ -84,6 +87,7 @@ body {
   border-color: var(--color-primary-brand);
   color: var(--color-whitebg);
 }
+
 .hero-btn:hover,
 .hero-btn:focus {
   background-color: var(--color-pressed);
@@ -117,6 +121,7 @@ body {
 .team {
   background-color: var(--color-light);
 }
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -138,6 +143,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--color-dark);
 }
+
 .team-list-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -159,9 +165,6 @@ body {
 
 /**-------------Portfolio--------------*/
 
-.filter {
-}
-
 .filter-menu-btn {
   font-family: inherit;
   font-weight: 500;
@@ -181,10 +184,6 @@ body {
   border-color: var(--color-pressed);
 }
 
-.filter-result-item {
-}
-.filter-result-link {
-}
 .filter-result-title {
   font-weight: 500;
   font-size: 20px;
@@ -192,6 +191,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--color-dark);
 }
+
 .filter-result-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
