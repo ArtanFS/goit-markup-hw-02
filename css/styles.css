@@ -69,7 +69,6 @@ body {
 }
 
 .hero-title {
-  font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -109,7 +108,6 @@ body {
 }
 
 .product-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -123,7 +121,6 @@ body {
 }
 
 .team-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
